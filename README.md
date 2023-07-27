@@ -42,4 +42,7 @@ Converts yolo labels to xml files
 
 ## 12. onnx_to_tflite.ipynb
 To convert the onnx file to tflite and tensorflow saved_model (.pb) format.
+- pip install onnx_tf
+- pip install tensorflow
+- pip install opencv-python (optional)
 
