@@ -34,12 +34,12 @@ To remove a certain class from yolo labeled data.
 ## 9. removeclass.py
 To remove a certain class from yolo labeled data.
 
-## 10. onnx_to_tflite.ipynb
-To convert the onnx file to tflite and tensorflow saved_model (.pb) format.
-
 ## 10. train_test_spit.ipynb
 To split dataset into train test by modulus of total number of files in folder.
 
 ## 11. yolo_to_xml.py
 Converts yolo labels to xml files
+
+## 12. onnx_to_tflite.ipynb
+To convert the onnx file to tflite and tensorflow saved_model (.pb) format.
 
