@@ -48,3 +48,4 @@ To convert the onnx file to tflite and tensorflow saved_model (.pb) format.
 
 ## 13. Tflite model inference
 Adjust the inputs and outputs accordingly.
+[tflite_testing.ipynb](tflite_testing.ipynb)
