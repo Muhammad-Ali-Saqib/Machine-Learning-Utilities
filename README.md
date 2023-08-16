@@ -46,3 +46,5 @@ To convert the onnx file to tflite and tensorflow saved_model (.pb) format.
 - pip install tensorflow
 - pip install opencv-python (optional)
 
+## 13. Tflite model inference
+Adjust the inputs and outputs accordingly.
